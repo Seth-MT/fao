@@ -23,7 +23,7 @@ const HEX = {
 	LORANGE: '#Ffa500',
 	DPINK: '#Ff1493',
 	BROWN: '#a56729',
-	YELLOW: '#ddbb00',
+	YELLOW: '#3333ff',
 	RED: '#e50000'
 };
 
@@ -39,7 +39,7 @@ const ORDER = [
 	// 'MAGENTA',
 	// 'BROWN',
 	'RED',
-	'YELLOW',
+	'BLUE',
 	'BROWN',
 	'DPINK',
 	'LORANGE',
