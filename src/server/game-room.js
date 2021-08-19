@@ -5,7 +5,7 @@ import Stroke from '../common/stroke.js';
 import * as Util from '../common/util.js';
 import * as Prompts from './prompts/prompts-api.js';
 
-const MAX_USERS = 20;
+const MAX_USERS = 15;
 
 class GameRoom {
 	constructor(roomCode, host) {
